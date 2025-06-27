@@ -14,7 +14,7 @@ $after_assoc_logged = mysqli_fetch_assoc($select_result);
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>NobleUI Responsive Bootstrap 4 Dashboard Tahsan</title>
+	<title>NobleUI Responsive Bootstrap 4 Dashboard PHPPROJECT</title>
 	<!-- core:css -->
 	<link rel="stylesheet" href="/php/assets/vendors/core/core.css">
 	<!-- endinject -->
